@@ -1,5 +1,8 @@
+@import url("styles/hedaer.css");
+
 :root {
     --cor-de-fundo: #5ca3dd;
+    --branco: #FFFFFF;
 }
 body {
     background-color: var(--cor-de-fundo);
